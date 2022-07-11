@@ -1,0 +1,30 @@
+:root {
+  font-size: 14px;
+}
+h2 {
+  font-size: 24px;
+  padding-top: 3rem;
+  padding-bottom: 1rem;
+}
+h3 {
+  font-size: 18px;
+  padding-top: 3rem;
+  padding-bottom: 1rem;
+}
+p {
+  padding-bottom: 1.3rem;
+}
+span {
+  padding-bottom: 0.8rem;
+  display: inline-block;
+}
+li {
+  padding-bottom: 10px;
+}
+li:first-child {
+    padding-top: 10px;
+}
+
+.myPadd {
+  padding: 40px 170px;
+}
